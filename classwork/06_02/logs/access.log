@@ -1,0 +1,4 @@
+GET /admin/1 304 - - 13.064 ms
+GET /admin/1 304 - - 2.968 ms
+GET /admin/1 304 - - 12.677 ms
+GET /admin/1 304 - - 5.090 ms
